@@ -1,0 +1,28 @@
+{
+  "name": "qeeper",
+  "version": "0.0.0",
+  "description": "SQL query keeper",
+  "keywords": [
+    "sql",
+    "query",
+    "queries",
+    "keeper",
+    "qeeper",
+    "db",
+    "database",
+    "postgre",
+    "postgres",
+    "postgresql",
+    "mysql"
+  ],
+  "homepage": "https://github.com/qeeper/qeeper",
+  "main": "./lib",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": {
+    "name": "Keiji Yoshida",
+    "email": "yoshida.keiji.84@gmail.com"
+  },
+  "license": "BSD-2-Clause"
+}
