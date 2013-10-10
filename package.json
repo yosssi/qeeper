@@ -1,7 +1,7 @@
 {
   "name": "qeeper",
   "version": "0.0.0",
-  "description": "SQL query keeper",
+  "description": "SQL query keeper for Node.js",
   "keywords": [
     "sql",
     "query",
@@ -17,12 +17,9 @@
   ],
   "homepage": "https://github.com/qeeper/qeeper",
   "main": "./lib",
-  "scripts": {
-    "test": "make test"
-  },
   "author": {
     "name": "Keiji Yoshida",
     "email": "yoshida.keiji.84@gmail.com"
   },
-  "license": "BSD-2-Clause"
+  "license": "The MIT License (MIT)"
 }
