@@ -14,13 +14,13 @@ npm install qeeper
 var qeeper = require('qeeper').configure({defDir: __dirname + '/qeeper', defExt: '.def', cache: true});
 ```
 Qeeper has the following configuration options:  
-* defDir  
+- defDir  
 The directory path which has SQL definition files.  
 The default value is process.env.PWD + '/qeeper'.
-* defExt  
+- defExt  
 The directory path which has SQL definition files.  
 The default value is 'def'.
-* cache  
+- cache  
 The flag which indicates whether or not to cache the SQLs which are parsed and executed in the memory.  
 The default value is false.
 

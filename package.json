@@ -1,6 +1,6 @@
 {
   "name": "qeeper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "SQL query keeper for Node.js",
   "keywords": [
     "sql",
