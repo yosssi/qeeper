@@ -8,3 +8,8 @@ You can manage SQL and JavaScript separately by using Qeeper.
 ```bash
 npm install qeeper
 ```
+
+## Load and configuration
+```javascript
+var qeeper = require('qeeper').configure({defDir: __dirname + '/qeeper', defExt: '.def', cache: true});
+```
