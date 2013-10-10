@@ -1,6 +1,6 @@
 {
   "name": "qeeper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SQL query keeper for Node.js",
   "keywords": [
     "sql",
@@ -21,5 +21,5 @@
     "name": "Keiji Yoshida",
     "email": "yoshida.keiji.84@gmail.com"
   },
-  "license": "The MIT License (MIT)"
+  "license": "MIT"
 }
