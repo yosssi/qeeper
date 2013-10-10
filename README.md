@@ -16,13 +16,13 @@ var qeeper = require('qeeper').configure({defDir: __dirname + '/qeeper', defExt:
 Qeeper has the following configuration options:  
 - defDir  
 The directory path which has SQL definition files.  
-The default value is process.env.PWD + '/qeeper'.
+The default value is process.env.PWD + '/qeeper'.  
 - defExt  
 The extension of the SQL definition files.  
-The default value is 'def'.
+The default value is 'def'.  
 - cache  
 The flag which indicates whether or not to cache the SQLs which are parsed and executed in the memory.  
-The default value is false.
+The default value is false.  
 
 ## SQL definition files
 You need to make SQL definition files like the following:
